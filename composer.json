@@ -1,0 +1,15 @@
+{
+    "name": "tianyou/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wei-c",
+            "email": "962241455@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
